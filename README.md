@@ -17,6 +17,11 @@ The objective of the **"User Sign-Up and Demographics Report"** is to analyze **
 [x] Combining Insights and Finalizing Visualizations  
 [x] Report Writing and Summary  
 
+### Note:
+- To check the analysis (file.ipynb) we need to use [nbviewer](https://nbviewer.org/).
+- Otherwise, the charts will not work and you won't be able to see the visualizations.
+- Load [nbviewer](https://nbviewer.org/) >> paste the file link from GitHub >> it will show all the charts.
+
 ### Summary of the Task
 
 #### Objective:
